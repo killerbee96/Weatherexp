@@ -1,5 +1,6 @@
 import requests, json 
-import argparse 
+
+import argparse
 
 
 def get_forecast(zip=560064,today=None):
